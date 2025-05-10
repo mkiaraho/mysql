@@ -19,3 +19,6 @@ This is a simple relational database management system built using **MySQL** for
 ```bash
 git clone https://github.com/yourusername/clinic-booking-system.git
 cd clinic-booking-system
+![erd diagram](https://github.com/user-attachments/assets/920d91ff-a917-4481-91cf-64586124dc99)
+
+
