@@ -22,4 +22,4 @@ cd clinic-booking-system
 
 
 **erd image link**
-https://drive.google.com/file/d/1kBU-NNieMg0DyQrBxTSs9fSXB8Kn-ubY/view?usp=sharing
+[![Alt Text](https://drive.google.com/file/d/1kBU-NNieMg0DyQrBxTSs9fSXB8Kn-ubY/view?usp=sharing)](https://drive.google.com)
